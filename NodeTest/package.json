@@ -1,0 +1,15 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "Sample application for Kubernetes CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Avishek Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
